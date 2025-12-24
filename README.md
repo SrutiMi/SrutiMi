@@ -11,12 +11,10 @@
 </h1>
 
 
-- 🌱 I’m currently learning DevOps and Backend Development
-- 👯 I’m looking to collaborate on DevOps projects and backend development projects.
-- 📫 How to reach me: Email: mishrasruti978@gmail.com , Twitter: https://twitter.com/SrutiMishra9
+- 🤖 I’m actively building projects in Machine Learning and Applied AI, with a focus on NLP and real-world deployment.
+- 📫 How to reach me: Email: mishrasruti978@gmail.com | Twitter: https://twitter.com/SrutiMishra9
 - 😄 Pronouns: She/her
-- ⚡ Fun fact:  I love exploring new technologies and experimenting with different tech stacks to build innovative solutions.
-
+- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different tech stacks to build innovative solutions.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrutiMi&show_icons=true&theme=transparent)-->
 
